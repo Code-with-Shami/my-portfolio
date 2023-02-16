@@ -1,0 +1,60 @@
+body{
+    background-color: wheat;
+}
+body #fname , #lname, #faname, #email, 
+#address, #dob, #city, #pcode, #province, #others{
+margin-left: 70px;
+margin-bottom: 2px;
+}
+#lname{
+    margin-left: 67px;
+}
+#faname{
+    margin-left: 53px;
+}
+#email{
+    margin-left: 77px;
+}
+#dob{
+    margin-left: 51px;
+}
+#address{
+    margin-left: 83px;
+}
+#city{
+    margin-left: 107px;
+}
+#pcode{
+    margin-left: 57px;
+}
+#province{
+    margin-left: 77px;
+}
+#hob{
+    margin-left: 84px;
+}
+#hob1{
+    margin-left: 141px;
+}
+#ma{
+    margin-left: 87px;
+}
+
+div.five{
+    margin-left: 137px;
+}
+div.six{
+    margin-left: 0px;
+    
+}
+div.two{
+    margin-left: 137px;
+}
+div.three{
+    margin-left: 137px;
+    margin-bottom: 10px;
+
+}
+div.four{
+    margin-left: 0px;
+}
